@@ -1,0 +1,28 @@
+.Cell {
+  height: 100px;
+  width: 100px;
+  background-color: #d3d3d3; /* Light gray */
+  border: 2px solid #ccc;
+  border-radius: 8px; /* Rounded corners */
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.Cell-lit {
+  background-color: #f1c40f; /* Bright yellow */
+}
+
+.Cell:hover {
+  transform: scale(1.1); /* Slightly scale up on hover */
+}
+
+.Cell:active {
+  transform: scale(0.95); /* Slightly scale down on click */
+}
+@media (max-width: 600px) {
+  .Cell {
+    height: 80px;
+    width: 80px;
+  }
+}
