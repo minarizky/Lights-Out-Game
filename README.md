@@ -11,9 +11,9 @@ Features
 
 Getting Started
 
-  Prerequisites
-    - Node.js (v14.x or higher)
-    - npm (v6.x or higher) or yarn
+Prerequisites
+- Node.js (v14.x or higher)
+- npm (v6.x or higher) or yarn
 
 Usage
 - Play the Game: Click on the lights in the grid to toggle them and their adjacent lights. The objective is to turn off all the lights.
