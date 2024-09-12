@@ -10,6 +10,7 @@ Features
 - Responsive Design: The grid adapts to different screen sizes for a seamless experience.
 
 Getting Started
+
   Prerequisites
     - Node.js (v14.x or higher)
     - npm (v6.x or higher) or yarn
