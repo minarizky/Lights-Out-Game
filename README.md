@@ -28,6 +28,7 @@ Project Structure
 - package.json: Project metadata and dependencies.
 
 Contributing
+
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request!
   1. Fork the repository
   2. Create a new branch for your feature or fix
